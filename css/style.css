@@ -1,0 +1,24 @@
+.top {
+	top: 0;
+	width: 100%;
+	position: fixed;
+	height: 5px;
+	z-index: 9999;
+	background: rgb(2,0,36);
+background: -moz-linear-gradient(65deg, rgba(2,0,36,1) 0%, rgba(8,8,94,1) 35%, rgba(158,0,0,1) 100%);
+background: -webkit-linear-gradient(65deg, rgba(2,0,36,1) 0%, rgba(8,8,94,1) 35%, rgba(158,0,0,1) 100%);
+background: linear-gradient(65deg, rgba(2,0,36,1) 0%, rgba(8,8,94,1) 35%, rgba(158,0,0,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endColorstr="#9e0000",GradientType=1);
+
+}
+
+.back-footer{
+
+	background: #263238;
+
+}
+
+.navbar-fixed {
+	margin-top: 5px;
+	
+}
